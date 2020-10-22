@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 💻 I’m currently working on NodeJS, ElasticSearch, Python, and Java applications for NLP and Search.
+- 🌱 My current interests are NodeJS and WSL2.
+- 💭 Why? Because exploring and building stuff is fun!
+- ⚡ Favorite Languages: NodeJS, C#, Lua, Japanese
+- 🎓 B.Eng (Electrical), M.Comp (Comp Sci)
+- 🎨 Fun facts
+    + My hobbies are music, anime, guitar, bass, investing, programming, fish-keeping and gaming!
+    + I used to do digital painting but not anymore.
+
 <!--
 **cardin/cardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
