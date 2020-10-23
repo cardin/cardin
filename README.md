@@ -8,6 +8,7 @@
 - 🎨 Fun facts
     + My hobbies are music, anime, guitar, bass, investing, programming, fish-keeping and gaming!
     + I used to do digital painting but not anymore.
+    + I used to be a hobbyist game dev and 3D modeller but not anymore either.
 
 <!--
 **cardin/cardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
