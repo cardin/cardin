@@ -10,6 +10,9 @@
     + I used to do digital painting but not anymore.
     + I used to be a hobbyist game dev and 3D modeller but not anymore either.
 
+[![Cardin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cardin)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Cardin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cardin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cardin/cardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
