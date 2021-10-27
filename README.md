@@ -8,7 +8,7 @@
 - 🎨 Fun facts
     + I play music!
        - Instruments: Bass, Guitar, Drums
-       - Genres: Classical, Acoustic, Pop, MandoPop, Rock, JRock
+       - Genres: Classical, Acoustic, Pop, MandoPop, Rock, JRock, Anisong
     + Other hobbies: personal finance, programming, fish-keeping and gaming!
     + I used to do digital painting but not anymore.
     + I used to be a hobbyist game dev and 3D modeller but not anymore either.
