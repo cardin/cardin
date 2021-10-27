@@ -6,7 +6,10 @@
 - ⚡ Favorite Languages: NodeJS, C#, Lua (+ English, 中文, 日本語)
 - 🎓 B.Eng (Electrical), M.Comp (Comp Sci)
 - 🎨 Fun facts
-    + My hobbies are music, anime, guitar, bass, personal finance, programming, fish-keeping and gaming!
+    + I play music!
+       - Instruments: Bass, Guitar, Drums
+       - Genres: Classical, Acoustic, Pop, MandoPop, Rock, JRock
+    + Other hobbies: personal finance, programming, fish-keeping and gaming!
     + I used to do digital painting but not anymore.
     + I used to be a hobbyist game dev and 3D modeller but not anymore either.
 
