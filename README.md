@@ -1,17 +1,20 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on NodeJS, ElasticSearch, Python, and Java applications for Content Analytics, NLP and Search.
-- 🌱 My current interests are NodeJS, Docker and WSL2.
-- 💭 Why? Because exploring and building stuff is fun!
-- ⚡ Favorite Languages: Bash, NodeJS, C#, Lua (+ English, 中文, 日本語)
+- 💻 I’m currently working on Data-Analytics and LLM applications
+- 📦 My tech stack is
+    + Ubuntu, Elastic, Postgres, Redis, Kafka, Docker
+    + Java, Python, NodeJS, Vue
+- 🌱 My current interests are NodeJS, Docker and WSL2
+- ⚡ Favorite Languages: TypeScript, Python, C# (+ English, 中文, 日本語)
 - 🎓 B.Eng (Electrical), M.Comp (Comp Sci)
 - 🎨 Fun facts
     + I play music!
        - Instruments: Bass, Guitar, Drums
        - Genres: Classical, Pop, MandoPop, Rock, JRock, Anisong
-    + Other hobbies: personal finance, programming, sciences, freshwater aquariums, cooking and gaming!
-    + I used to do pencil sketches, digital painting & 3D modelling but not anymore.
-    + I used to be a hobbyist 2D game dev but not anymore either.
+    + Other hobbies
+       - Reading, freshwater aquariums, and gaming!
+       - I used to draw (pencil, digital, 3D) but not anymore.
+       - I used to develop 2D Flash games but not anymore either.
 
 [![Cardin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cardin)](https://github.com/anuraghazra/github-readme-stats)
 
