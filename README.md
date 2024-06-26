@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on Data-Analytics and LLM applications
+- 💻 I’m currently working on Multi-modal Data Analytics and LLM applications
 - 📦 My tech stack is
-    + Ubuntu, Elastic, Postgres, Redis, Kafka, Docker
-    + Java, Python, NodeJS, Vue
-- 🌱 My current interests are NodeJS, Docker and WSL2
+    + Bash, Ubuntu, Elasticsearch, Postgres, Redis, Docker
+    + Python, NodeJS, FastAPI
+    + Vue, Nuxt, Tailwind
+- 🌱 My current interests are NodeJS, Vue, Docker and WSL2
 - ⚡ Favorite Languages: TypeScript, Python, C# (+ English, 中文, 日本語)
 - 🎓 B.Eng (Electrical), M.Comp (Comp Sci)
 - 🎨 Fun facts
     + I play music!
        - Instruments: Bass, Guitar, Drums
-       - Genres: Classical, Pop, MandoPop, Rock, JRock, Anisong
+       - Genres: Classical, (Mando)Pop, (J)Rock, Anisong
     + Other hobbies
        - Reading, freshwater aquariums, and gaming!
        - I used to draw (pencil, digital, 3D) but not anymore.
