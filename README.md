@@ -5,7 +5,7 @@
     + vLLM, LiteLLM
     + Bash, Ubuntu, Elasticsearch, Postgres, Redis, Docker, WSL2
     + Python, NodeJS, FastAPI
-    + Vue, Nuxt, Tailwind, MapLibreGL
+    + Vue, Nuxt, Tailwind
 - 🌱 My current interests are NodeJS, Vue, Docker and WSL2
 - ⚡ Favorite Languages: TypeScript, Python, C# (+ English, 中文, 日本語)
 - 🎓 B.Eng (Electrical), M.Comp (Comp Sci)
