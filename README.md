@@ -2,7 +2,8 @@
 
 - 💻 I’m currently working on Multi-modal Data Analytics and LLM applications
 - 📦 My tech stack is
-    + Bash, Ubuntu, Elasticsearch, Postgres, Redis, Docker
+    + vLLM, LiteLLM
+    + Bash, Ubuntu, Elasticsearch, Postgres, Redis, Docker, WSL2
     + Python, NodeJS, FastAPI
     + Vue, Nuxt, Tailwind
 - 🌱 My current interests are NodeJS, Vue, Docker and WSL2
