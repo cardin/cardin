@@ -16,7 +16,7 @@
     + Other hobbies
        - Reading, freshwater aquariums, and gaming!
        - I used to draw (pencil, digital, 3D) but not anymore.
-       - I used to develop 2D Flash games but not anymore either.
+       - I used to develop Adobe Flash games but not anymore either.
 
 [![Cardin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cardin)](https://github.com/anuraghazra/github-readme-stats)
 
