@@ -1,22 +1,21 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on Multi-modal Data Analytics and LLM applications
+- 💻 I’m currently working on LLMs in Data Science applications
 - 📦 My tech stack is
     + vLLM, LiteLLM
-    + Bash, Ubuntu, Elasticsearch, Postgres, Redis, Docker, WSL2
+    + Ubuntu, Docker, Kubernetes, WSL2
+    + Elasticsearch, Postgres, Redis
     + Python, NodeJS, FastAPI
     + Vue, Nuxt, Tailwind
-- 🌱 My current interests are NodeJS, Vue, Docker and WSL2
+- 🌱 My current interests are NodeJS, Vue, Docker, Kubernetes and WSL2
+- 🏠 My personal tech setup is Starship, Catppuccin, WSL2 and VSCode
 - ⚡ Favorite Languages: TypeScript, Python, C# (+ English, 中文, 日本語)
 - 🎓 B.Eng (Electrical), M.Comp (Comp Sci)
 - 🎨 Fun facts
     + I play music!
        - Instruments: Bass, Guitar, Drums
-       - Genres: Classical, (Mando)Pop, (J)Rock, Anisong
-    + Other hobbies
-       - Reading, freshwater aquariums, and gaming!
-       - I used to draw (pencil, digital, 3D) but not anymore.
-       - I used to develop Adobe Flash games but not anymore either.
+       - Genres: Classical, Acoustic, Rock, Metal, Ani-song
+    + Previously, drawing (pencil, digital, 3D), Flash game dev, freshwater aquariums
 
 [![Cardin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cardin)](https://github.com/anuraghazra/github-readme-stats)
 
